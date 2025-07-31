@@ -7,3 +7,4 @@ Para su ejecución deberás abrir CHALLENGE_TELECOM_X, después cargar el archiv
 
 # Acerca de:
 El proyecto aborda la limpieza y tratamiento de datos extraídos en formato JSON, gestionando estructuras anidadas mediante separación de categorías y su unificación en un DataFrame. Durante el tratamiento, se ajustaron tipos de datos y se resolvieron errores de conversión, reemplazándolos para tratar nulos y campos vacios con datos aleatorios. Las columnas fueron renombradas al español y el resultado final se exportó como archivo CSV limpio y estandarizado. 
+
